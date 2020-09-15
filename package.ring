@@ -5,11 +5,11 @@ aPackageInfo = [
 	:developer = "Mahmoud Fayed",
 	:email = "msfclipper@yahoo.com",
 	:license = "MIT License",
-	:version = "1.0.0",
+	:version = "1.0.1",
 	:ringversion = "1.13",
 	:versions = 	[
 		[
-			:version = "1.0.0",
+			:version = "1.0.1",
 			:branch = "master"
 		]
 	],
@@ -23,6 +23,9 @@ aPackageInfo = [
 	:files = 	[
 		"lib.ring",
 		"main.ring",
+		"README.md"
+	],
+	:ringfolderfiles = 	[
 		"applications/towersofhanoi/images/D1.png",
 		"applications/towersofhanoi/images/D2.png",
 		"applications/towersofhanoi/images/D3.png",
@@ -36,11 +39,7 @@ aPackageInfo = [
 		"applications/towersofhanoi/images/towersofhanoi.png",
 		"applications/towersofhanoi/README.md",
 		"applications/towersofhanoi/TowersOfHanoi-Recursion.ring",
-		"applications/towersofhanoi/TowersOfHanoi.ring",
-		"README.md"
-	],
-	:ringfolderfiles = 	[
-
+		"applications/towersofhanoi/TowersOfHanoi.ring"
 	],
 	:windowsfiles = 	[
 
